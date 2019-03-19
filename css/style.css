@@ -7,7 +7,7 @@ body {
 /**** Unsure why nav is not rendering to yellow background?****/
 
 nav {
-  background color: yellow;
+  background-color: yellow;
   height: 100px;
   margin-top: -10px;
   position: fixed;
